@@ -1,0 +1,21 @@
+p {
+  font-size: 13px;
+}
+
+h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 26px;
+  text-align: center;
+}
+
+nav {
+  font-size: 13px;
+}
+
+basefont {
+  font-family: "Noto Sans", sans-serif;
+}
+
+html {
+  text-align: center;
+}
