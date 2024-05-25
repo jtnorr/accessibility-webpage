@@ -1,5 +1,5 @@
 p {
-  font-size: 13px;
+  line-height: 25px;
 }
 
 h1 {
@@ -9,13 +9,24 @@ h1 {
 }
 
 nav {
-  font-size: 13px;
 }
 
 basefont {
   font-family: "Noto Sans", sans-serif;
 }
 
-html {
+body {
   text-align: center;
+  background-color: #242424;
+}
+
+a {
+  color: #0092ca;
+}
+
+html {
+}
+
+#poem {
+  font-style: italic;
 }
