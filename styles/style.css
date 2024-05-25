@@ -15,9 +15,14 @@ basefont {
   font-family: "Noto Sans", sans-serif;
 }
 
-body {
+body, ol {
   text-align: center;
   background-color: #242424;
+  align-content: center;
+  list-style-position: inside;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a {
@@ -29,4 +34,9 @@ html {
 
 #poem {
   font-style: italic;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
